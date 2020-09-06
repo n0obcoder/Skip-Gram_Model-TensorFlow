@@ -16,6 +16,12 @@ TensorFlow implementation of the word2vec (skip-gram model)
 python main.py
 ```
 
+# Visualizing real-time training loss in Tensorboard
+```
+tensorboard --logdir <PATH_TO_TENSORBOARD_EVENTS_FILE>
+```
+<strong>NOTE:</strong> By default, <strong>PATH_TO_TENSORBOARD_EVENTS_FILE</strong> is set to <strong>SUMMARY_DIR</strong> in config.py
+
 # Testing
 ```
 python test.py

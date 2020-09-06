@@ -23,15 +23,15 @@ python test.py
 
 # Inference
 
-desert   | shore, hilly, plateau, basin, highlands
-india    | provinces, pakistan, mainland, asian, colonial
-computer | digital, computers, software, electronic, interface
-football | baseball, championship, basketball, coach, wrestler
-war      | invasion, soviet, troop, army, ally
-religion |judaism, islam, religions, religious, jewish
-crime    | will, prosecution, accusations, provoke, prosecute
-football | baseball, championship, basketball, coach, wrestler
-wildlife | tourists, offshore, exporter, lowland, sprawl
-physics  | mathematics, mathematical, chemistry, theoretical, analysis
-guitar   | bass, drum, solo, quartet, vocals
-movies   | movie, albums, songs, cartoon, animate
+desert   | shore, hilly, plateau, basin, highlands <br>
+india    | provinces, pakistan, mainland, asian, colonial <br>
+computer | digital, computers, software, electronic, interface <br>
+football | baseball, championship, basketball, coach, wrestler <br>
+war      | invasion, soviet, troop, army, ally <br>
+religion |judaism, islam, religions, religious, jewish <br>
+crime    | will, prosecution, accusations, provoke, prosecute <br>
+football | baseball, championship, basketball, coach, wrestler <br>
+wildlife | tourists, offshore, exporter, lowland, sprawl <br>
+physics  | mathematics, mathematical, chemistry, theoretical, analysis <br>
+guitar   | bass, drum, solo, quartet, vocals <br>
+movies   | movie, albums, songs, cartoon, animate <br>

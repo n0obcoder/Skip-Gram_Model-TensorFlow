@@ -26,6 +26,11 @@ tensorboard --logdir <PATH_TO_TENSORBOARD_EVENTS_FILE>
 ```
 <strong>NOTE:</strong> By default, <strong>PATH_TO_TENSORBOARD_EVENTS_FILE</strong> is set to <strong>SUMMARY_DIR</strong> in config.py
 
+### Sharing the training loss for Visualization in real-time using Tensorboard
+```
+tensorboard dev upload--logdir <PATH_TO_TENSORBOARD_EVENTS_FILE>
+```
+
 ### Testing
 ```
 python test.py
